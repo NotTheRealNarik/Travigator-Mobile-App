@@ -1,0 +1,74 @@
+/* Empty. Add your own CSS if you like */
+#geoID2{
+	
+     text-align:center;
+	 
+	}
+
+#phoneID{
+	
+	/* background-color: #FFFFEA */
+		
+	}
+
+#emailID{
+	
+	/* background-color: #FFFFEA */
+}
+
+#smsButton{
+	
+	padding:5px 10px;
+
+	
+
+}
+
+#emailButton{
+	
+	padding:5px 10px;
+	
+
+}
+
+.tabs-dark > .tabs{
+	background-color: #2292A4 !important; /* blue-green */
+
+
+	}		
+
+
+
+/* Headers for every view*/
+.bar-dark{  
+	
+	background-color: #2292A4 !important;  /* blue-green */
+
+	
+	}
+
+
+
+.button-positive{
+	 
+	background-color: #EF5A04 !important;   /*orange */
+	
+	}
+	
+	
+.button-light{
+	 
+	background-color: #EF5A04 !important;
+	
+	}
+	
+.view{
+	
+	/*background-color: #FFFFEA !important;   Beige */
+
+}
+
+.card{
+	
+
+}
